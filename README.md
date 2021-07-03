@@ -21,3 +21,5 @@ Hi, I'm Sandeep Chauhan, a passionate self-taught Backend developer from India.
 <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=sandeepsajan0&show_icons=true&include_all_commits=true&theme=material-palenight&count_private=true" alt="Sandeep's github stats" />
 
 <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=sandeepsajan0&layout=compact&theme=material-palenight" />
+
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=sandeepsajan0.sandeepsajan0" alt="visitor badge"/> -->
