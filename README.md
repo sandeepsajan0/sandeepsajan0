@@ -14,12 +14,13 @@ Hi, I'm Sandeep Chauhan, a passionate self-taught Backend developer from India.
 
 - 🔭 I’m currently working on some really cool backend stuff with Django
 - 🌱 I’m currently learning Reactjs
-- 💬 Ask me about anything [here](https://www.linkedin.com/in/sandeepsajan0/) :)
+- 💬 Talk to me about anything [here](https://www.linkedin.com/in/sandeepsajan0/) :)
 
 <br />
 
 <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=sandeepsajan0&show_icons=true&include_all_commits=true&theme=material-palenight&count_private=true" alt="Sandeep's github stats" />
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepsajan0&theme=material-palenight&hide_border=true" alt="Sandeep's github streak stats" />
 <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=sandeepsajan0&layout=compact&theme=material-palenight" />
 
-<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=sandeepsajan0.sandeepsajan0" alt="visitor badge"/> -->
+<img src="https://visitor-badge.glitch.me/badge?page_id=sandeepsajan0.sandeepsajan0" alt="visitor badge"/>
