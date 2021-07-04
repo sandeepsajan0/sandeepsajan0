@@ -18,3 +18,5 @@ Hi, I'm Sandeep Chauhan, a passionate self-taught Backend(Python/Django) develop
 <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=sandeepsajan0&layout=compact&theme=material-palenight" />
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=sandeepsajan0.sandeepsajan0" alt="visitor badge"/>
+
+<!-- <img src="https://gitwar.herokuapp.com/badge?username=sandeepsajan0&color=green&label=profile+views" alt="Profile visitor badge" /> -->
