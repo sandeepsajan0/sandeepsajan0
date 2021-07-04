@@ -1,20 +1,14 @@
 ### Hi there, I am [Sandeep!](https://sandeep-chauhan.com) 👋
 
-<a href="https://twitter.com/sandeepsajan0">
-  <img align="left" alt="Sandeep Chauhan | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<!-- <a href="https://www.linkedin.com/in/sandeepsajan0/">
-  <img align="left" alt="Sandeep Chauhan | LinkedIn" width="21px" src="https://banner2.cleanpng.com/20171202/f59/linkedin-download-png-5a22d420d16602.1978549215122319688577.jpg
-" /> </a> -->
+<!-- <br /> -->
 
-<br />
-<br />
+Hi, I'm Sandeep Chauhan, a passionate self-taught Backend(Python/Django) developer from India.
 
-Hi, I'm Sandeep Chauhan, a passionate self-taught Backend developer from India.
-
-- 🔭 I’m currently working on some really cool backend stuff with Django
-- 🌱 I’m currently learning Reactjs
-- 💬 Talk to me about anything [here](https://www.linkedin.com/in/sandeepsajan0/) :)
+- 🔭 I’m currently working on some really cool backend stuff with **Django**
+- 🌱 I’m currently learning **Reactjs**
+- 👯 I am looking to collabrate on Open Source projects
+- 💬 Talk to me about anything
+- 📫 Where to find me **[Twitter](https://twitter.com/sandeepsajan0)**, **[LinkedIn](https://www.linkedin.com/in/sandeepsajan0/)**, **[Medium](https://sandeepsajan0.medium.com)**, **[Website](https://sandeep-chauhan.com)**
 
 <br />
 
