@@ -6,8 +6,8 @@ Hi, I'm Sandeep Chauhan, a passionate self-taught Backend(Python/Django) develop
 
 - 🔭 I’m currently working on some really cool backend stuff with **Django**
 - 🌱 I’m currently learning **Reactjs**
-- 👯 I am looking to collabrate on Open Source projects
-- 💬 Talk to me about web development, lifestyle, health and fitness
+- 👯 I am open to collabrate on **Open Source projects**
+- 💬 Talk to me about **Web Development, Lifestyle, Health and Fitness**
 - 📫 Where to find me **[Twitter](https://twitter.com/sandeepsajan0)**, **[LinkedIn](https://www.linkedin.com/in/sandeepsajan0/)**, **[Medium](https://sandeepsajan0.medium.com)**, **[Website](https://sandeep-chauhan.com)**
 
 <br />
