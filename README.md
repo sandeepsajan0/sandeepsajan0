@@ -2,7 +2,7 @@
 
 <!-- <br /> -->
 
-Hi, I'm Sandeep Chauhan, a passionate self-taught Backend(Python/Django) developer from India.
+Hi, I'm Sandeep Chauhan, a passionate Backend(Python/Django) developer from India.
 
 - 🔭 I’m currently working on some cool backend stuff with **Django**
 - 🌱 I’m currently exploring latest cool stuff including **AI**
