@@ -4,11 +4,11 @@
 
 Hi, I'm Sandeep Chauhan, a passionate self-taught Backend(Python/Django) developer from India.
 
-- 🔭 I’m currently working on some really cool backend stuff with **Django**
-- 🌱 I’m currently learning **Reactjs**
-- 👯 I am open to collabrate on **Open Source projects**
+- 🔭 I’m currently working on some cool backend stuff with **Django**
+- 🌱 I’m currently exploring latest cool stuff including **AI**
+- 👯 I am open to collaborate on **Open Source projects**
 - 💬 Talk to me about **Web Development, Lifestyle, Health and Fitness**
-- 📫 Where to find me **[Twitter](https://twitter.com/sandeepsajan0)**, **[LinkedIn](https://www.linkedin.com/in/sandeepsajan0/)**, **[Medium](https://sandeepsajan0.medium.com)**, **[Website](https://sandeep-chauhan.com)**
+- 📫 Where to find me **[Twitter](https://twitter.com/sandeepsajan0)**, **[LinkedIn](https://www.linkedin.com/in/sandeepsajan0/)**, **[Medium](https://sandeepsajan0.medium.com)**,
 
 <br />
 
