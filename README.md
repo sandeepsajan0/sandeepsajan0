@@ -4,8 +4,8 @@
 
 Hi, I'm Sandeep Chauhan, a passionate Backend(Python/Django) developer from India.
 
-- 🔭 I’m currently working on some cool backend stuff with **Django**
-- 🌱 I’m currently exploring latest cool stuff including **AI**
+- 🔭 I’m currently working on **[Hypha](github.com/HyphaApp/hypha)**
+- 🌱 I’m currently exploring the latest cool stuff including **htmx, AI, etc**
 - 👯 I am open to collaborate on **Open Source projects**
 - 💬 Talk to me about **Web Development, Lifestyle, Health and Fitness**
 - 📫 Where to find me **[Twitter](https://twitter.com/sandeepsajan0)**, **[LinkedIn](https://www.linkedin.com/in/sandeepsajan0/)**, **[Medium](https://sandeepsajan0.medium.com)**,
