@@ -1,4 +1,4 @@
-### Hi there, I am [Sandeep!](https://sandeep-chauhan.com) 👋
+### Hi there, I am [Sandeep!](https://sandeepchauhansite.com) 👋
 
 <!-- <br /> -->
 
